@@ -321,3 +321,30 @@
 12:18:34.318 [main] INFO  testCases.TC_002_LogInTest - ******Starting TC_002_LogInTest*******
 12:18:37.579 [main] INFO  testCases.TC_002_LogInTest - Validation Success for LogIn Test
 12:18:37.580 [main] INFO  testCases.TC_002_LogInTest - ******Finished TC_002_LogInTest*******
+17:02:52.612 [TestNG-tests-2] INFO  testCases.TC_001_RegisterToApplication - ******Starting TC_001_RegisterToApplication*******
+17:02:56.259 [TestNG-tests-1] INFO  testCases.TC_001_RegisterToApplication - ******Starting TC_001_RegisterToApplication*******
+17:03:12.951 [TestNG-tests-3] INFO  testCases.TC_001_RegisterToApplication - ******Starting TC_001_RegisterToApplication*******
+17:11:54.939 [main] INFO  testCases.TC_001_RegisterToApplication - ******Starting TC_001_RegisterToApplication*******
+17:12:04.140 [main] INFO  testCases.TC_001_RegisterToApplication - Validation Passed for Registration
+17:12:07.153 [main] INFO  testCases.TC_001_RegisterToApplication - *****Finished TC_001_RegisterToApplication*****
+17:12:18.943 [main] INFO  testCases.TC_002_LogInTest - ******Starting TC_002_LogInTest*******
+17:12:28.283 [main] INFO  testCases.TC_002_LogInTest - Validation Success for LogIn Test
+17:12:28.284 [main] INFO  testCases.TC_002_LogInTest - ******Finished TC_002_LogInTest*******
+17:13:02.296 [main] INFO  testCases.TC_001_RegisterToApplication - ******Starting TC_001_RegisterToApplication*******
+17:13:41.691 [main] INFO  testCases.TC_002_LogInTest - ******Starting TC_002_LogInTest*******
+17:13:47.212 [main] INFO  testCases.TC_002_LogInTest - Validation Success for LogIn Test
+17:13:47.212 [main] INFO  testCases.TC_002_LogInTest - ******Finished TC_002_LogInTest*******
+17:17:20.416 [main] INFO  testCases.TC_001_RegisterToApplication - ******Starting TC_001_RegisterToApplication*******
+17:17:41.876 [main] INFO  testCases.TC_002_LogInTest - ******Starting TC_002_LogInTest*******
+17:17:46.301 [main] INFO  testCases.TC_002_LogInTest - Validation Success for LogIn Test
+17:17:46.301 [main] INFO  testCases.TC_002_LogInTest - ******Finished TC_002_LogInTest*******
+17:18:10.938 [main] INFO  testCases.TC_001_RegisterToApplication - ******Starting TC_001_RegisterToApplication*******
+17:18:29.603 [main] INFO  testCases.TC_001_RegisterToApplication - Validation Passed for Registration
+17:18:32.613 [main] INFO  testCases.TC_001_RegisterToApplication - *****Finished TC_001_RegisterToApplication*****
+17:18:43.106 [main] INFO  testCases.TC_002_LogInTest - ******Starting TC_002_LogInTest*******
+17:18:48.238 [main] INFO  testCases.TC_002_LogInTest - Validation Success for LogIn Test
+17:18:48.239 [main] INFO  testCases.TC_002_LogInTest - ******Finished TC_002_LogInTest*******
+17:22:42.999 [main] INFO  testCases.TC_001_RegisterToApplication - ******Starting TC_001_RegisterToApplication*******
+17:23:05.949 [main] INFO  testCases.TC_002_LogInTest - ******Starting TC_002_LogInTest*******
+17:23:09.420 [main] INFO  testCases.TC_002_LogInTest - Validation Success for LogIn Test
+17:23:09.420 [main] INFO  testCases.TC_002_LogInTest - ******Finished TC_002_LogInTest*******

@@ -104,7 +104,7 @@ public class BaseClass {
 
 	@SuppressWarnings("deprecation")
 	public String randomString() {
-		return RandomStringUtils.randomAlphabetic(5);
+		return RandomStringUtils.randomAlphabetic(7);
 
 	}
 
@@ -115,7 +115,7 @@ public class BaseClass {
 
 	public String randomPassword() {
 		@SuppressWarnings("deprecation")
-		String password = RandomStringUtils.randomAlphabetic(5) + "$" + RandomStringUtils.randomNumeric(3);
+		String password = RandomStringUtils.randomAlphabetic(6) + "$" + RandomStringUtils.randomNumeric(4);
 		return password;
 	}
 
