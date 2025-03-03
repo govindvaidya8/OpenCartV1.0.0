@@ -58,7 +58,11 @@ public class BaseClass {
 
 			} else if (browser.equalsIgnoreCase("edge")) {
 				capabilities.setBrowserName("MicrosoftEdge");
-			} else {
+			}
+			else if(browser.equalsIgnoreCase("firefox")){
+				capabilities.setBrowserName("firefox");
+			}
+			else {
 				System.out.println("No Matching Browser...");
 				return;
 			}
